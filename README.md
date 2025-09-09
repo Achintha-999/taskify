@@ -21,7 +21,7 @@
 | ![Login](  <img src="./image1.png" alt="image screenshot" width="680" height="480"/>) | ![Task List](https://via.placeholder.com/150) | ![Add Task](https://via.placeholder.com/150) |
 
 ---
-
+<img src="./image1.png" alt="image screenshot" width="680" height="480"/>
 ## 🛠️ Tech Stack
 
 - **React Native**: For building the mobile app.
