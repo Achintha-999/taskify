@@ -18,7 +18,7 @@
 
 | **Login Screen** | **Task List** | **Add Task** |
 |------------------|---------------|--------------|
-| ![Login](  <img src="./image1.png" alt="image screenshot"/>) | ![Task List](https://via.placeholder.com/150) | ![Add Task](https://via.placeholder.com/150) |
+| ![Login](  <img src="./image1.png" alt="image screenshot"/>) | ![Task List](<img src="./image2.png" alt="image screenshot"/>) | ![Add Task](<img src="./image3.png" alt="image screenshot"/>) |
 
 ---
 
