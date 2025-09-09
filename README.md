@@ -14,12 +14,13 @@
 
 ---
 
+
+
 ## 📸 Screenshots
 
-| **Login Screen** | **Task List** | **Add Task** |
-|------------------|---------------|--------------|
-| | ![Login](./image1.png) | ![Task List](./image2.png) | ![Add Task](./image3.png) | |
-
+| ![Login](./image1.png) | ![Task List](./image2.png) | ![Add Task](./image3.png) |
+|:----------------------:|:--------------------------:|:-------------------------:|
+| Login Screen           | Task List                  | Add Task                  |
 ---
 
 ## 🛠️ Tech Stack
