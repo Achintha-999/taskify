@@ -18,7 +18,7 @@
 
 | **Login Screen** | **Task List** | **Add Task** |
 |------------------|---------------|--------------|
-| ![Login](  <img src="./image1.png" alt="image screenshot"/>) | ![Task List](<img src="./image2.png" alt="image screenshot"/>) | ![Add Task](<img src="./image3.png" alt="image screenshot"/>) |
+| | ![Login](./image1.png) | ![Task List](./image2.png) | ![Add Task](./image3.png) | |
 
 ---
 
