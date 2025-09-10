@@ -15,7 +15,6 @@
 ---
 
 
-
 ## 📸 Screenshots
 
 | ![Login](./image1.png) | ![Task List](./image2.png) | ![Add Task](./image3.png) |
