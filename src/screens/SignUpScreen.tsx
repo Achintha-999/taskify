@@ -9,7 +9,7 @@ import {
   ALERT_TYPE,
 } from "react-native-alert-notification";
 
-const PUBLIC_URL = "https://5c1bee0da4b4.ngrok-free.app";
+const PUBLIC_URL = "https://07c6ad2704d0.ngrok-free.app";
 
 export default function SignUpScreen({ navigation }: any) {
   const [fullName, setFullName] = useState("");

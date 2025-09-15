@@ -10,7 +10,7 @@ import {
 } from "react-native-alert-notification";
 import { KeyboardAwareScrollView } from "react-native-keyboard-aware-scroll-view";
 
-const PUBLIC_URL = "https://5c1bee0da4b4.ngrok-free.app";
+const PUBLIC_URL = "https://07c6ad2704d0.ngrok-free.app";
 
 export default function SignInScreen({ navigation }: any) {
     const [getEmail, setEmail] = useState("");
